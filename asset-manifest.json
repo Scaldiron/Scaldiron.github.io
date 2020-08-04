@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/scaldiron/static/css/main.b0aaccbd.chunk.css",
+    "main.js": "/scaldiron/static/js/main.5ea5b0df.chunk.js",
+    "main.js.map": "/scaldiron/static/js/main.5ea5b0df.chunk.js.map",
+    "runtime-main.js": "/scaldiron/static/js/runtime-main.4cddaa67.js",
+    "runtime-main.js.map": "/scaldiron/static/js/runtime-main.4cddaa67.js.map",
+    "static/js/2.97a1b65d.chunk.js": "/scaldiron/static/js/2.97a1b65d.chunk.js",
+    "static/js/2.97a1b65d.chunk.js.map": "/scaldiron/static/js/2.97a1b65d.chunk.js.map",
+    "index.html": "/scaldiron/index.html",
+    "precache-manifest.c94abdec46354fc2834e8a75a2693cc3.js": "/scaldiron/precache-manifest.c94abdec46354fc2834e8a75a2693cc3.js",
+    "service-worker.js": "/scaldiron/service-worker.js",
+    "static/css/main.b0aaccbd.chunk.css.map": "/scaldiron/static/css/main.b0aaccbd.chunk.css.map",
+    "static/js/2.97a1b65d.chunk.js.LICENSE.txt": "/scaldiron/static/js/2.97a1b65d.chunk.js.LICENSE.txt",
+    "static/media/LifeEasier.png": "/scaldiron/static/media/LifeEasier.c57ff519.png",
+    "static/media/Magnolia.png": "/scaldiron/static/media/Magnolia.8b9ebbc8.png",
+    "static/media/Partnerships.png": "/scaldiron/static/media/Partnerships.fba3efd3.png",
+    "static/media/bernard.jpg": "/scaldiron/static/media/bernard.887e38a4.jpg",
+    "static/media/lucas.jpg": "/scaldiron/static/media/lucas.d793aeef.jpg",
+    "static/media/mikeh.jpg": "/scaldiron/static/media/mikeh.a862a23b.jpg",
+    "static/media/olga.jpg": "/scaldiron/static/media/olga.10733a1b.jpg",
+    "static/media/skyler.jpg": "/scaldiron/static/media/skyler.cd1f08fa.jpg",
+    "static/media/tom.jpg": "/scaldiron/static/media/tom.50416e57.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cddaa67.js",
+    "static/js/2.97a1b65d.chunk.js",
+    "static/css/main.b0aaccbd.chunk.css",
+    "static/js/main.5ea5b0df.chunk.js"
+  ]
+}
