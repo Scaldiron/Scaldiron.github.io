@@ -1,0 +1,143 @@
+
+
+ul {
+  list-style-type: none;
+  display: inline;
+  padding-left: 300px;
+  padding-right: 30px;
+}
+#jobs-section{
+  display: block;
+  padding-top: 10px;
+  width: 100%;
+}
+#about-us-section {
+  display: block;
+
+}
+
+#member-section{
+  background-color:#c4c4c5;
+  display: flex;
+  width: 100%;
+  margin-top: 10px;
+}
+#jobs-section {
+  background-color: #ec5e2c;
+  position: block;
+}
+.LifeEasier {
+  display:flex;
+}
+.Magnolia {
+  display:flex;
+}
+.Partnerships {
+  display:flex;
+}
+li {
+  display: inline;
+  margin: 0 0 10px 20px;
+  font-size: 20px;
+}
+
+.nav {
+  margin: 0 0 100px 100px;
+  float:right;
+}
+.nav-header {
+  background-color:#c4c4c5;
+}
+
+.App-link {
+  color: #61dafb;
+}
+p{
+  color: white;
+}
+.Jobs {
+  background-color: #ec5e2c;
+}
+
+.Jobs-Title {
+  text-align: center;
+  border-bottom: 2px solid black;
+  min-width: 100vw;
+  padding-bottom: 20px;
+}
+.Jobs-Title h1 {
+  font-size: 30px;
+  text-align: center;
+}
+.Jobs-Title p {
+  display: inline;
+}
+
+
+
+.wrap{
+  min-width: 100vw;
+  margin: auto;
+}
+
+.people_callout_main{
+  position:relative;
+  width: 40%;
+  float: left;
+}
+.people_wrap{
+  display:block;
+}
+.people__contents{
+  position:relative;
+}
+.people__contents img {
+  max-width: 100% !important;
+  height: auto;
+  width: auto;
+
+}
+.wrap {
+  display: block;
+  margin: auto;
+}
+.people_callout_regular{
+  width: 20%;
+  float: left;
+}
+.people_callout_regular .people__infocard{
+  position:absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(236, 94, 44, 0.9);
+  z-index: 2;
+  border: 1px solid transparent;
+}
+
+.people__infocard > h5 {
+  text-align: center;
+  color: black;
+}
+.people__infocard > h6 {
+  text-align: center;
+  color: black;
+}
+.people__infocard > p {
+  text-align: center;
+  font-size: 20px;
+}
+
+.people_callout_main > h1 {
+  font-size: 70px;
+  font-weight: strong;
+}
+.people_callout_main > p{
+  color: black;
+  font-size: 35px;
+
+}
+.people_wrap > div {
+  display: block;
+}
+
